@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.header li{
+  display: inline-block;
+  padding: 5px 45px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+}
+
+#x{
+  text-align: center;
+}
+
+#xhello{
+  text-align: center
+}
+
+.xcontainer #x{
+  font-size: 50px;
+line-height: 1.47059;
+font-weight: 400;
+letter-spacing: -.022em;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+div.xcontainer{
+  padding: 88px 0 0 0;
+}
+
+.xcontainer #xhello{
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
